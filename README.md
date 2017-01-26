@@ -1,2 +1,2 @@
-# water_maps
+# water maps
 Analysis of CA water usage.
